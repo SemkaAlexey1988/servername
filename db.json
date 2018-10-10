@@ -1,0 +1,25 @@
+{
+"messages": [
+    {
+      "id": 1,
+      "text": "Hello!",
+      "time": 1786912946322,
+      "author": "Alexey",
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "text": "Hello, Alexey",
+      "time": 17869129963232,
+      "author": "Igor",
+      "color": "blue"
+    },
+    {
+      "author": "John",
+      "text": "123",
+      "time": 1539146661556,
+      "color": "red",
+      "id": 1539146661557
+    }
+  ]
+}
